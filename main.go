@@ -37,4 +37,6 @@ func main() {
 	fmt.Println("Hello, World! D")
 
 	fmt.Println(add(2, 3))
+
+	fmt.Println(subtract(5, 2))
 }
