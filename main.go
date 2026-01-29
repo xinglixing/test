@@ -6,7 +6,6 @@ func add(a, b int) int {
 	return a + b
 }
 
-<<<<<<< HEAD
 func subtract(a, b int) int {
 	return a - b
 }
