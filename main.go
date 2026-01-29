@@ -35,4 +35,6 @@ func main() {
 	fmt.Println("Hello, World! C")
 
 	fmt.Println("Hello, World! D")
+
+	fmt.Println(add(2, 3))
 }
