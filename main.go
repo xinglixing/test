@@ -14,6 +14,10 @@ func multiply(a, b int) int {
 	return a * b
 }
 
+func divide(a, b int) int {
+	return a / b
+}
+
 func main() {
 	fmt.Println("Hello, World! B")
 }
