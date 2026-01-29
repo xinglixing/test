@@ -31,7 +31,6 @@ func factorial(n int) int {
 
 func main() {
 	fmt.Println("Hello, World! B")
-func main() {
 	fmt.Println("Hello, World!")
 >>>>>>> branch-16e81a
 }
