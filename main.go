@@ -39,4 +39,6 @@ func main() {
 	fmt.Println(add(2, 3))
 
 	fmt.Println(subtract(5, 2))
+
+	fmt.Println(multiply(4, 5))
 }
