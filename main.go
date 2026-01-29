@@ -43,4 +43,8 @@ func main() {
 	fmt.Println(multiply(4, 5))
 
 	fmt.Println(divide(10, 2))
+
+	fmt.Println(power(2, 3))
+
+	fmt.Println(factorial(5))
 }
