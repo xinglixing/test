@@ -6,6 +6,7 @@ func add(a, b int) int {
 	return a + b
 }
 
+<<<<<<< HEAD
 func subtract(a, b int) int {
 	return a - b
 }
@@ -31,4 +32,8 @@ func factorial(n int) int {
 
 func main() {
 	fmt.Println("Hello, World! B")
+=======
+func main() {
+	fmt.Println("Hello, World!")
+>>>>>>> branch-16e81a
 }
