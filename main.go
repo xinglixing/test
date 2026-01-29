@@ -31,5 +31,4 @@ func factorial(n int) int {
 
 func main() {
 	fmt.Println("Hello, World! B")
-branch-16e81a
 }
