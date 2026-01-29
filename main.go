@@ -31,4 +31,6 @@ func factorial(n int) int {
 
 func main() {
 	fmt.Println("Hello, World! B")
+
+	fmt.Println("Hello, World! C")
 }
