@@ -14,4 +14,6 @@ func main() {
 	fmt.Println("Hello, World!")
 
 	fmt.Println(add(2, 4))
+
+	fmt.Println(add(2, 5))
 }
