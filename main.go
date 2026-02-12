@@ -7,5 +7,6 @@ func add(a, b int) int {
 }
 
 func main() {
-    // Main function with the extra print statement removed
+    result := add(5, 3)
+    fmt.Println("Result of add(5, 3):", result)
 }
