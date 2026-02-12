@@ -9,4 +9,9 @@ func add(a, b int) int {
 func main() {
 	result := add(5, 3)
 	fmt.Println("Result of add(5, 3):", result)
+    return a + b
+}
+
+func main() {
+    // Main function with the extra print statement removed
 }
